@@ -1,0 +1,19 @@
+6s/3d/KC/13S/Ad
+hello
+
+
+bye
+
+6s/3d/KC/13S/Ad/n
+6s/3d/KC/13S/Ad/N
+6s/3d/KC/13S/Ad\r
+6s/3d/KC/13S/Ad\R
+6s/3d/KC/13S/Ad/r
+6s/3d/KC/13S/Ad/R
+6s/3d/KC/13S/Ad/n
+6s/3d/KC/13S/Ad/N 
+no\nhello
+6s 3d KC 13S Ad 6s/3d/KC/13S/Ad 6s/3d/KC/13S/Ad
+6s/3d/KC/13S/Ad \n 6s/3d/KC/13S/Ad
+
+6s/3d/KC/13S/Ad /n 6s/3d/KC/13S/Ad

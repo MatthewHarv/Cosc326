@@ -1,0 +1,5 @@
+0        H H H T T T
+1    H T H H _ _ T T
+2    H T _ _ _ _ T T H H
+3    H T _ _ T H T _ _ H
+4        _ _ T H T H T H
